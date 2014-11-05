@@ -20,3 +20,6 @@ On s’intéresse, dans ce T.P., qu’au cas d’un petit message (quelques  car
 * Saisir le nombre minimal de personnes requises pour recouvrer le message (t) 
 * Saisir le message (déjà chiffré) à partager 
 
+
+le code pour les opérations sur les matrices est de Ata Amini et est téléchargeable [ici](http://www.codeproject.com/Articles/405128/Matrix-operations-in-Java)
+
