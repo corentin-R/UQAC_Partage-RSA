@@ -26,8 +26,10 @@ On s’intéresse, dans ce T.P., qu’au cas d’un petit message (quelques  car
 * Saisir le nombre premier n
 
 
+##Screenshot
+
 ![screenshot](screenshot.png)
 
 
-le code pour les opérations sur les matrices est de Ata Amini et est téléchargeable [ici](http://www.codeproject.com/Articles/405128/Matrix-operations-in-Java)
+N.B.: le code pour les opérations sur les matrices est de Ata Amini et est téléchargeable [ici](http://www.codeproject.com/Articles/405128/Matrix-operations-in-Java)
 
