@@ -13,12 +13,20 @@ On s’intéresse, dans ce T.P., qu’au cas d’un petit message (quelques  car
 ##Déchiffrement: 
 * Saisir le message chiffré 
 * Saisir l’exposant de déchiffrement 
+* Saisir le message chiffré
 
 ##Partage:  
 * Saisir un grand nombre premier (plus grand que le message chiffré) 
 * Saisir le nombre de personnes qui recevront une part du message (w) 
 * Saisir le nombre minimal de personnes requises pour recouvrer le message (t) 
 * Saisir le message (déjà chiffré) à partager 
+
+##Assemblage
+* Saisir le minimum de couples clé/valeur
+* Saisir le nombre premier n
+
+
+![screenshot](screenshot.png)
 
 
 le code pour les opérations sur les matrices est de Ata Amini et est téléchargeable [ici](http://www.codeproject.com/Articles/405128/Matrix-operations-in-Java)
